@@ -10,7 +10,7 @@ const Header = () => {
         <AppBar position="relative">
             <Toolbar>
                 <Grid  container direction="row" justify="space-between" alignItems="center" >
-                <Typography> Divya Panackal</Typography>
+                <Typography> Divya Panackal </Typography>
                 <IconButton >
                     <MenuIcon />
                 </IconButton>
